@@ -24,7 +24,7 @@ Goal 1 module: Characterize stressors in S FL (OA, HAB, Temp., Eutrophication, )
 5. From Dan:
 6. Chlorophyll product (MODA 1km, daily, on ERDDAP)
 7. ABI in 2018 and beyond.
-8. Discharge from Caloosahatchee, Peace, Manatee,
+8. Discharge from Shark, Caloosahatchee, Peace, Manatee,
 9. Spatially characterize stressors - maps of trends, anomalies, specific time series in relevant locations
 10. Identify events (w/thresholds)
 11. Data pipeline - how to incorporate cruise data?
