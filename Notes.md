@@ -30,3 +30,9 @@ Goal 1 module: Characterize stressors in S FL (OA, HAB, Temp., Eutrophication, )
 11. Data pipeline - how to incorporate cruise data?
 12. Synthesis of in situ HAB data and ABI?
 13.  
+
+### Tasks/ideas for 2025
+1. Marine heatwaves - how to quantify?
+2. Look at DHW products
+3. Re-run Thiel-Sen slope calculations w/MODIS (VIIRS?)
+4. Ways to assess DO? HABs?
